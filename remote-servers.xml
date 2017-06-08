@@ -1,0 +1,12 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="CloudFoundry" type="cloudfoundry">
+      <configuration email="mrvnflx@gmail.com" password="Percent@1208">
+        <option name="apiUrl" value="http://api.run.pivotal.io" />
+        <option name="domain" value="" />
+        <option name="organization" value="mrvnflx" />
+        <option name="space" value="dev" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
