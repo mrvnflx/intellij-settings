@@ -14,6 +14,10 @@
           <option name="url" value="git@github.com:spgreenberg/eureka.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:spgreenberg/browser.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mrvnf\Workspace\cf\training-cloud-native-with-cf" />
